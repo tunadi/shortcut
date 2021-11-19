@@ -1,8 +1,8 @@
 ## General 
 <details>
-           <summary>open</summary>
+           <summary>Shorcut</summary>
 
-Shortcute | Description
+Shortcut | Description
 ------------ | -------------
 Alt + D | Jump/ focus Address Bar with content selected
 Alt + D, then 2x Tab | Jump/ focus Navigation Pane.
@@ -72,9 +72,9 @@ Windows + X | Open the advanced menu in the lower-left corner of the screen.
 
 ## Virtual Desktop
 <details>
-           <summary>open</summary>
+           <summary>Shorcut</summary>
 
-Shortcute | Description
+Shortcut | Description
 ------------ | -------------
 Windows + Ctrl + D | Add a virtual desktop.
 Windows + Ctrl + F4 | Close the virtual desktop you're using.
@@ -84,9 +84,9 @@ Windows + Ctrl + Right arrow | Switch between virtual desktops, you've created o
 
 ## Commonly Used Shortcut Keys
 <details>
-           <summary>open</summary>
+           <summary>Shorcut</summary>
 
-Shortcute | Description
+Shortcut | Description
 ------------ | -------------
 Alt + C | If exists, open the "computer" menu in the current window.
 Alt + E | If exists, open the "edit" menu in the current window.
@@ -110,9 +110,9 @@ Shift + Home | Select from the current place to the beginning of the file or fol
 
 ## Microsoft Windows Shortcut Key
 <details>
-           <summary>open</summary>
+           <summary>Shorcut</summary>
 
-Shortcute | Description
+Shortcut | Description
 ------------ | -------------
 Alt + Enter | Opens properties window of selected icon or program.
 Alt + Esc | Switches between applications on taskbar.
@@ -141,9 +141,9 @@ Windows + Shift + S | The computer screen will be covered by a white overlay. No
 
 ## Taskbar Keyboard
 <details>
-           <summary>open</summary>
+           <summary>Shorcut</summary>
 
-Shortcute | Description
+Shortcut | Description
 ------------ | -------------
 Ctrl + click a grouped taskbar button | Cycle through the windows of the group.
 Ctrl + Shift + click a taskbar button | Open an app as an administrator.
@@ -154,9 +154,9 @@ Shift + right-click a taskbar button | Show the window menu for the app.
 
 ## Mouse Shortcut
 <details>
-           <summary>open</summary>
+           <summary>Shorcut</summary>
 
-Shortcute | Description
+Shortcut | Description
 ------------ | -------------
 Click and Drag | Select files and/or folders.
 Ctrl + Click | Used to select the file(s) one by one.
@@ -168,9 +168,9 @@ select, shift + click | Sequentially select multiple files or folders.
 
 ## Change Views
 <details>
-           <summary>open</summary>
+           <summary>Shorcut</summary>
 
-Shortcute | Description
+Shortcut | Description
 ------------ | -------------
 Ctrl+Shift+1 | Change View to Extra Large Icons.
 Ctrl+Shift+2 | Change View to Large Icons.
@@ -184,9 +184,9 @@ Ctrl+Shift+8 | Change View to Content View.
 
 ## Address Bar - Environment Variable Short hands
 <details>
-           <summary>open</summary>
+           <summary>Shorcut</summary>
 
-Shortcute | Description
+Shortcut | Description
 ------------ | -------------
 %AllUsersProfile% | Typically C:\ProgramData
 %AppData% | Typically C:\Users\UserName\AppData\Roaming
@@ -203,9 +203,9 @@ Shortcute | Description
 
  ## Screen Rotation 
 <details>
-           <summary>open</summary>
+           <summary>Shorcut</summary>
 
-Shortcute | Description
+Shortcut | Description
 ------------ | -------------
 Ctrl + Alt + Down Arrow | Change the screen to landscape view.
 Ctrl + Alt + Left Arrow | Change the screen to portrait view.
