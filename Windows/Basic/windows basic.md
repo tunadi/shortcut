@@ -2,7 +2,6 @@
 
 Shortcute | Description
 ------------ | -------------
-
 Alt + D | Jump/ focus Address Bar with content selected
 Alt + D, then 2x Tab | Jump/ focus Navigation Pane.
 Alt + D, then 3x Tab | Jump/ focus Folder Content Pane.
@@ -72,7 +71,6 @@ Windows + X | Open the advanced menu in the lower-left corner of the screen.
 
 Shortcute | Description
 ------------ | -------------
-
 Windows + Ctrl + D | Add a virtual desktop.
 Windows + Ctrl + F4 | Close the virtual desktop you're using.
 Windows + Ctrl + Left arrow | Switch between virtual desktops you've created on the left.
@@ -82,7 +80,6 @@ Windows + Ctrl + Right arrow | Switch between virtual desktops, you've created o
 
 Shortcute | Description
 ------------ | -------------
-
 Alt + C | If exists, open the "computer" menu in the current window.
 Alt + E | If exists, open the "edit" menu in the current window.
 Alt + F | If exists, open the "file" menu in the current window.
@@ -106,7 +103,6 @@ Shift + Home | Select from the current place to the beginning of the file or fol
 
 Shortcute | Description
 ------------ | -------------
-
 Alt + Enter | Opens properties window of selected icon or program.
 Alt + Esc | Switches between applications on taskbar.
 Alt + F4 | Closes the application. (Note: Ctrl+W closes a window.)
@@ -135,7 +131,6 @@ Windows + Shift + S | The computer screen will be covered by a white overlay. No
 
 Shortcute | Description
 ------------ | -------------
-
 Ctrl + click a grouped taskbar button | Cycle through the windows of the group.
 Ctrl + Shift + click a taskbar button | Open an app as an administrator.
 Shift + click a taskbar button | Open an app or quickly open another instance of an app.
@@ -158,7 +153,6 @@ select, shift + click | Sequentially select multiple files or folders.
 
 Shortcute | Description
 ------------ | -------------
-
 Ctrl+Shift+1 | Change View to Extra Large Icons.
 Ctrl+Shift+2 | Change View to Large Icons.
 Ctrl+Shift+3 | Change View to Medium Icons.
@@ -172,7 +166,6 @@ Ctrl+Shift+8 | Change View to Content View.
 
 Shortcute | Description
 ------------ | -------------
-
 %AllUsersProfile% | Typically C:\ProgramData
 %AppData% | Typically C:\Users\UserName\AppData\Roaming
 %CommonProgramFiles% | Typically C:\Program Files\Common Files
@@ -189,7 +182,6 @@ Shortcute | Description
 
 Shortcute | Description
 ------------ | -------------
-
 Ctrl + Alt + Down Arrow | Change the screen to landscape view.
 Ctrl + Alt + Left Arrow | Change the screen to portrait view.
 Ctrl + Alt + Right Arrow | Change the screen to a portrait (flipped) view.
