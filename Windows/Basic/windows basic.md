@@ -1,4 +1,6 @@
-## General
+## General 
+<details>
+           <summary>open</summary>
 
 Shortcute | Description
 ------------ | -------------
@@ -66,8 +68,11 @@ Windows + Up Arrow | Maximize the active window vertically and horizontally.
 Windows + V | Show clipboard details.
 Windows + W | Used to take a snapshot and open with system application.
 Windows + X | Open the advanced menu in the lower-left corner of the screen.
+</details>
 
 ## Virtual Desktop
+<details>
+           <summary>open</summary>
 
 Shortcute | Description
 ------------ | -------------
@@ -75,8 +80,11 @@ Windows + Ctrl + D | Add a virtual desktop.
 Windows + Ctrl + F4 | Close the virtual desktop you're using.
 Windows + Ctrl + Left arrow | Switch between virtual desktops you've created on the left.
 Windows + Ctrl + Right arrow | Switch between virtual desktops, you've created on the right.
+</details>
 
 ## Commonly Used Shortcut Keys
+<details>
+           <summary>open</summary>
 
 Shortcute | Description
 ------------ | -------------
@@ -98,8 +106,11 @@ F1 | Universal help (for any sort of program).
 Home | Takes the user to the beginning of the folder or file.
 Shift + End | Select from the current selected item to the end of the file or folder.
 Shift + Home | Select from the current place to the beginning of the file or folder.
+</details>
 
 ## Microsoft Windows Shortcut Key
+<details>
+           <summary>open</summary>
 
 Shortcute | Description
 ------------ | -------------
@@ -126,8 +137,11 @@ Print Screen | Creates a screenshot for the currently visible screen in the clip
 Shift + Delete | Ask confirmation message and delete an item permanently without placing it into the Recycle Bin.
 Shift + F10 | Simulates right-click on selected item.
 Windows + Shift + S | The computer screen will be covered by a white overlay. Now you can select any desired area of the screen using your mouse cursor. As soon as you release the cursor, the selected screen area screenshot will be automatically copied to the clipboard.
+</details>
 
 ## Taskbar Keyboard
+<details>
+           <summary>open</summary>
 
 Shortcute | Description
 ------------ | -------------
@@ -136,20 +150,25 @@ Ctrl + Shift + click a taskbar button | Open an app as an administrator.
 Shift + click a taskbar button | Open an app or quickly open another instance of an app.
 Shift + right-click a grouped taskbar button | Show the window menu for the group.
 Shift + right-click a taskbar button | Show the window menu for the app.
+</details>
 
 ## Mouse Shortcut
+<details>
+           <summary>open</summary>
 
 Shortcute | Description
 ------------ | -------------
-
 Click and Drag | Select files and/or folders.
 Ctrl + Click | Used to select the file(s) one by one.
 Ctrl + Double-click | Open folder in a new window.
 Ctrl + Mouse wheel | Increase or decrease the icon size.
 select, click on the name | Rename the file or folder.
 select, shift + click | Sequentially select multiple files or folders.
+</details>
 
 ## Change Views
+<details>
+           <summary>open</summary>
 
 Shortcute | Description
 ------------ | -------------
@@ -161,8 +180,11 @@ Ctrl+Shift+5 | Change View to List View.
 Ctrl+Shift+6 | Change View to Details View.
 Ctrl+Shift+7 | Change View to Tiles View.
 Ctrl+Shift+8 | Change View to Content View.
+</details>
 
 ## Address Bar - Environment Variable Short hands
+<details>
+           <summary>open</summary>
 
 Shortcute | Description
 ------------ | -------------
@@ -177,8 +199,11 @@ Shortcute | Description
 %SystemDrive% or %HomeDrive% | Typically C:\
 %Temp% or %Tmp% | Typcially C:\Users\UserName\AppData\Local\Temp
 %WinDir% or %SystemRoot% | Typically C:\Windows
+</details>
 
-## Screen Rotation
+ ## Screen Rotation 
+<details>
+           <summary>open</summary>
 
 Shortcute | Description
 ------------ | -------------
@@ -186,4 +211,4 @@ Ctrl + Alt + Down Arrow | Change the screen to landscape view.
 Ctrl + Alt + Left Arrow | Change the screen to portrait view.
 Ctrl + Alt + Right Arrow | Change the screen to a portrait (flipped) view.
 Ctrl + Alt + Up Arrow | Change the screen to Landscape (flipped) view.
-
+</details>
