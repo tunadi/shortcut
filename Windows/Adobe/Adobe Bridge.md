@@ -21,7 +21,7 @@ Ctrl + Shift + \ | Go to previous view |
 Ctrl + Shift + minus sign (\-) | Step thumbnail size down | 
 Ctrl + Shift + plus sign (+) | Step thumbnail size up | 
 Ctrl + Up Arrow | Move up a level (in folders panel) | 
-Ctrl + \‘ | Switch between 0- and 1-star rating | 
+Ctrl + ‘ | Switch between 0- and 1-star rating | 
 Ctrl-click | Add to selection (discontiguous) | 
 Ctrl-click or Ctrl-drag | Move multiple loupe tools simultaneously | 
 Down Arrow | Move down a folder (in folders panel or a row) | 
