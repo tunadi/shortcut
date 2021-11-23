@@ -1,2 +1,138 @@
 # shortcut
 keyboard key combinations to perform certain functions on the computer.  This kind of shortcut is often faster than opening a menu with the mouse that requires several clicks.
+<p>This page provides an overview of keyboard shortcuts that can help you use your desktop and applications more efficiently.</p>
+
+
+## Shortcut Windows
+* [Adobe ](https://github.com/tunadi/shortcut/tree/main/Windows/Adobe "Shortcut Adobe") 
+  * [Adobe Affter Effect ](https://github.com/tunadi/shortcut/blob/main/Windows/Adobe/Adobe%20Affter%20Effects.md "Shortcut Adobe Affter Effect") 
+  * [Adobe Audition ](https://github.com/tunadi/shortcut/blob/main/Windows/Adobe/Adobe%20Audition.md "Shortcut Adobe Audition") 
+  * [Adobe Bridge ](https://github.com/tunadi/shortcut/blob/main/Windows/Adobe/Adobe%20Bridge.md "Shortcut Adobe Bridge") 
+  * [Adobe Dreamweaver ](https://github.com/tunadi/shortcut/blob/main/Windows/Adobe/Adobe%20Dreamweaver.md "Shortcut Adobe Dreamweaver") 
+  * [Adobe Encoder ](https://github.com/tunadi/shortcut/blob/main/Windows/Adobe/Adobe%20Encoder.md "Shortcut Adobe Encoder") 
+  * [Adobe Firework ](https://github.com/tunadi/shortcut/blob/main/Windows/Adobe/Adobe%20Fireworks.md "Shortcut Adobe Firework") 
+  * [Adobe Flash Builder ](https://github.com/tunadi/shortcut/blob/main/Windows/Adobe/Adobe%20Flash%20Builder.md "Shortcut Adobe Flash Builder") 
+  * [Adobe Flash ](https://github.com/tunadi/shortcut/blob/main/Windows/Adobe/Adobe%20Flash.md "Shortcut Adobe Flash") 
+  * [Adobe Ilustrator ](https://github.com/tunadi/shortcut/blob/main/Windows/Adobe/Adobe%20Ilustrator.md "Shortcut Adobe Ilustrator") 
+  * [Adobe Indesign ](https://github.com/tunadi/shortcut/blob/main/Windows/Adobe/Adobe%20Indesign.md "Shortcut Adobe Indesign") 
+  * [Adobe Lightroom ](https://github.com/tunadi/shortcut/blob/main/Windows/Adobe/Adobe%20Lightroom.md "Shortcut Adobe Lightroom") 
+  * [Adobe Pagemaker ](https://github.com/tunadi/shortcut/blob/main/Windows/Adobe/Adobe%20Pagemaker.md "Shortcut Adobe Pagemaker") 
+  * [Adobe Photoshop ](https://github.com/tunadi/shortcut/blob/main/Windows/Adobe/Adobe%20Photoshop.md "Shortcut Adobe Photoshop") 
+  * [Adobe Prelude ](https://github.com/tunadi/shortcut/blob/main/Windows/Adobe/Adobe%20Prelude.md "Shortcut Adobe Prelude") 
+  * [Adobe Premiere Pro ](https://github.com/tunadi/shortcut/blob/main/Windows/Adobe/Adobe%20Premiere%20Pro.md "Shortcut Adobe Premiere Pro") 
+  * [Adobe Speedgrade ](https://github.com/tunadi/shortcut/blob/main/Windows/Adobe/Adobe%20Speedgrade.md "Shortcut Adobe Speedgrade") 
+  * [Adobe XD ](https://github.com/tunadi/shortcut/blob/main/Windows/Adobe/Adobe%20XD.md "Shortcut Adobe XD") 
+          
+* [Basic ](https://github.com/tunadi/shortcut/tree/main/Windows/Basic "Shortcut Basic") 
+  * [Calculator ](https://github.com/tunadi/shortcut/blob/main/Windows/Basic/Calculator.md "Shortcut Calculator") 
+  * [MS-DOS ](https://github.com/tunadi/shortcut/blob/main/Windows/Basic/MS-DOS.md "Shortcut MS-DOS") 
+  * [MS-Paint ](https://github.com/tunadi/shortcut/blob/main/Windows/Basic/MS-Paint.md "Shortcut MS-Paint") 
+  * [Mouse ](https://github.com/tunadi/shortcut/blob/main/Windows/Basic/Mouse.md "Shortcut Mouse") 
+  * [Windows Basic ](https://github.com/tunadi/shortcut/blob/main/Windows/Basic/windows%20basic.md "Shortcut Windows Basic") 
+          
+* [Browser ](https://github.com/tunadi/shortcut/tree/main/Windows/Browser "Shortcut Browser") 
+  * [Chrome ](https://github.com/tunadi/shortcut/blob/main/Windows/Browser/Chrome.md "Shortcut Chrome") 
+  * [Firefox ](https://github.com/tunadi/shortcut/blob/main/Windows/Browser/Firefox.md "Shortcut Firefox") 
+  * [Internet Explore ](https://github.com/tunadi/shortcut/blob/main/Windows/Browser/Internet%20Explore.md "Shortcut Internet Explore") 
+  * [Microsoft Edge ](https://github.com/tunadi/shortcut/blob/main/Windows/Browser/Micrisoft%20Edge.md "Shortcut Microsoft Edge") 
+          
+* [Editor ](https://github.com/tunadi/shortcut/tree/main/Windows/Editor "Shortcut Editor") 
+  * [Atom ](https://github.com/tunadi/shortcut/blob/main/Windows/Editor/Atom.md "Shortcut Atom") 
+  * [Notepad PP ](https://github.com/tunadi/shortcut/blob/main/Windows/Editor/Notepad%20PP.md "Shortcut Notepad PP") 
+  * [Notepad ](https://github.com/tunadi/shortcut/blob/main/Windows/Editor/Notepad.md "Shortcut Notepad") 
+  * [VS Code ](https://github.com/tunadi/shortcut/blob/main/Windows/Editor/Visual%20Studio%20Code.md "Shortcut VS Code") 
+          
+* [Media Player ](https://github.com/tunadi/shortcut/tree/main/Windows/Media%20Player "Shortcut Media Player") 
+  * [AIMP ](https://github.com/tunadi/shortcut/blob/main/Windows/Media%20Player/AIMP.md "Shortcut AIMP") 
+  * [KM Player ](https://github.com/tunadi/shortcut/blob/main/Windows/Media%20Player/KM%20Player.md "Shortcut KM Player") 
+  * [MX Player ](https://github.com/tunadi/shortcut/blob/main/Windows/Media%20Player/MX%20Player.md "Shortcut MX Player") 
+  * [Real Player ](https://github.com/tunadi/shortcut/blob/main/Windows/Media%20Player/Real%20Player.md "Shortcut Real Player") 
+  * [VLC ](https://github.com/tunadi/shortcut/blob/main/Windows/Media%20Player/VLC.md "Shortcut VLC") 
+  * [Winamp ](https://github.com/tunadi/shortcut/blob/main/Windows/Media%20Player/Winamp.md "Shortcut Winamp") 
+  * [Windows Media Player ](https://github.com/tunadi/shortcut/blob/main/Windows/Media%20Player/Windows%20Media%20Player.md "Shortcut Windows Media Player") 
+          
+* [Microsoft Office ](https://github.com/tunadi/shortcut/tree/main/Windows/Microsoft%20Office "Shortcut Microsoft Office") 
+  * [Microsoft Access ](https://github.com/tunadi/shortcut/blob/main/Windows/Microsoft%20Office/Microsoft%20Access.md "Shortcut Microsoft Access") 
+  * [Microsoft Excel ](https://github.com/tunadi/shortcut/blob/main/Windows/Microsoft%20Office/Microsoft%20Excel.md "Shortcut Microsoft Excel") 
+  * [Microsoft Frontpage ](https://github.com/tunadi/shortcut/blob/main/Windows/Microsoft%20Office/Microsoft%20FrontPage.md "Shortcut Microsoft Frontpage") 
+  * [Microsoft Outlook ](https://github.com/tunadi/shortcut/blob/main/Windows/Microsoft%20Office/Microsoft%20Outlook.md "Shortcut Microsoft Outlook") 
+  * [Microsoft PowerPoint ](https://github.com/tunadi/shortcut/blob/main/Windows/Microsoft%20Office/Microsoft%20PowerPoint.md "Shortcut Microsoft PowerPoint") 
+  * [Microsoft Publisher ](https://github.com/tunadi/shortcut/blob/main/Windows/Microsoft%20Office/Microsoft%20Publisher.md "Shortcut Microsoft Publisher") 
+  * [Microsoft Word ](https://github.com/tunadi/shortcut/blob/main/Windows/Microsoft%20Office/Microsoft%20Word.md "Shortcut Microsoft Word") 
+          
+* [Website ](https://github.com/tunadi/shortcut/tree/main/Windows/Website "Shortcut Website") 
+  * [Google ADS ](https://github.com/tunadi/shortcut/blob/main/Windows/Website/Google%20Ads.md "Shortcut Google ADS") 
+  * [Js Bin ](https://github.com/tunadi/shortcut/blob/main/Windows/Website/JS%20Bin.md "Shortcut Js Bin") 
+  * [Wordpress ](https://github.com/tunadi/shortcut/blob/main/Windows/Website/Wordpress.md "Shortcut Wordpress") 
+          
+* [Others ](https://github.com/tunadi/shortcut/tree/main/Windows/Others "Shortcut Others") 
+  * [CorelDraw ](https://github.com/tunadi/shortcut/blob/main/Windows/Others/Corel%20draw.md "Shortcut CorelDraw") 
+  * [HTML Kit ](https://github.com/tunadi/shortcut/blob/main/Windows/Others/HTML%20Kit.md "Shortcut HTML Kit") 
+  * [Maya ](https://github.com/tunadi/shortcut/blob/main/Windows/Others/Maya.md "Shortcut Maya") 
+  * [MySQL ](https://github.com/tunadi/shortcut/blob/main/Windows/Others/MySQL.md "Shortcut MySQL") 
+  * [Skype ](https://github.com/tunadi/shortcut/blob/main/Windows/Others/Skype.md "Shortcut Skype") 
+  * [Tally ](https://github.com/tunadi/shortcut/blob/main/Windows/Others/Tally.md "Shortcut Tally") 
+          
+## Shortcut MacOs
+* [Adobe ](https://github.com/tunadi/shortcut/tree/main/MAC%20OS/Adobe "Shortcut Adobe") 
+  * [Adobe Affter Effect ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Adobe/Adobe%20Affter%20Effects.md "Shortcut Adobe Affter Effect") 
+  * [Adobe Audition ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Adobe/Adobe%20Audition.md "Shortcut Adobe Audition") 
+  * [Adobe Bridge ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Adobe/Adobe%20Bridge.md "Shortcut Adobe Bridge") 
+  * [Adobe Dreamweaver ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Adobe/Adobe%20Dreamweaver.md "Shortcut Adobe Dreamweaver") 
+  * [Adobe Encoder ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Adobe/Adobe%20Encoder.md "Shortcut Adobe Encoder") 
+  * [Adobe Firework ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Adobe/Adobe%20Fireworks.md "Shortcut Adobe Firework") 
+  * [Adobe Flash Builder ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Adobe/Adobe%20Flash%20Builder.md "Shortcut Adobe Flash Builder") 
+  * [Adobe Flash ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Adobe/Adobe%20Flash.md "Shortcut Adobe Flash") 
+  * [Adobe Ilustrator ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Adobe/Adobe%20Ilustrator.md "Shortcut Adobe Ilustrator") 
+  * [Adobe Indesign ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Adobe/Adobe%20Indesign.md "Shortcut Adobe Indesign") 
+  * [Adobe Lightroom ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Adobe/Adobe%20Lightroom.md "Shortcut Adobe Lightroom") 
+  * [Adobe Photoshop ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Adobe/Adobe%20Photoshop.md "Shortcut Adobe Photoshop") 
+  * [Adobe Premiere Pro ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Adobe/Adobe%20Premiere%20Pro.md "Shortcut Adobe Premiere Pro") 
+  * [Adobe Speedgrade ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Adobe/Adobe%20Speedgrade.md "Shortcut Adobe Speedgrade") 
+  * [Adobe XD ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Adobe/Adobe%20XD.md "Shortcut Adobe XD") 
+          
+* [Basic ](https://github.com/tunadi/shortcut/tree/main/MAC%20OS/Basic "Shortcut Basic") 
+  * [Calculator ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Basic/Calculator.md "Shortcut Calculator") 
+  * [Mac Basic ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Basic/Ios%20Basic.md "Shortcut Mac Basic") 
+  * [Mouse ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Basic/Mouse.md "Shortcut Mouse") 
+          
+* [Browser ](https://github.com/tunadi/shortcut/tree/main/MAC%20OS/Browser "Shortcut Browser") 
+  * [Chrome ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Browser/Chrome.md "Shortcut Chrome") 
+  * [Firefox ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Browser/Firefox.md "Shortcut Firefox") 
+  * [Safari ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Browser/Safari.md "Shortcut Safari") 
+          
+* [Editor ](https://github.com/tunadi/shortcut/tree/main/MAC%20OS/Editor "Shortcut Editor") 
+  * [Atom ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Editor/Atom.md "Shortcut Atom") 
+  * [Sublime ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Editor/Sublime.md "Shortcut Sublime") 
+  * [VS Code ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Editor/Visual%20Studio%20Code.md "Shortcut VS Code") 
+          
+* [Media Player ](https://github.com/tunadi/shortcut/tree/main/MAC%20OS/Media%20Player "Shortcut Media Player") 
+  * [Real Player ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Media%20Player/Real%20Player.md "Shortcut Real Player") 
+  * [VLC ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Media%20Player/VLC.md "Shortcut VLC") 
+  * [iTunes ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Media%20Player/iTunes.md "Shortcut iTunes") 
+          
+* [Microsoft Office ](https://github.com/tunadi/shortcut/tree/main/MAC%20OS/Microsoft%20Office "Shortcut Microsoft Office") 
+  * [Microsoft Excel ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Microsoft%20Office/Microsoft%20Excel.md "Shortcut Microsoft Excel") 
+  * [Microsoft OneNote ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Microsoft%20Office/Microsoft%20OneNote.md "Shortcut Microsoft OneNote") 
+  * [Microsoft Outlook ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Microsoft%20Office/Microsoft%20Outlook.md "Shortcut Microsoft Outlook") 
+  * [Microsoft PowerPoint ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Microsoft%20Office/Microsoft%20PowerPoint.md "Shortcut Microsoft PowerPoint") 
+  * [Microsoft Word ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Microsoft%20Office/Microsoft%20Word.md "Shortcut Microsoft Word") 
+          
+* [Website ](https://github.com/tunadi/shortcut/tree/main/MAC%20OS/Website "Shortcut Website") 
+  * [Google ADS ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Website/Google%20Ads.md "Shortcut Google ADS") 
+  * [Wordpress ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Website/Wordpress.md "Shortcut Wordpress") 
+          
+* [Others ](https://github.com/tunadi/shortcut/tree/main/MAC%20OS/Others "Shortcut Others") 
+  * [Sketch ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Others/Sketch.md "Shortcut Sketch") 
+  * [Skype ](https://github.com/tunadi/shortcut/blob/main/MAC%20OS/Others/Skype.md "Shortcut Skype") 
+     
+## Shortcut Linux
+* [Kali Linux ](https://github.com/tunadi/shortcut/blob/main/Linux/Kali%20Linux/Kali%20Linux.md "Shortcut Kali Linux") 
+* [Mint ](https://github.com/tunadi/shortcut/blob/main/Linux/Mint/Mint.md "Shortcut Mint") 
+* [RedHat ](https://github.com/tunadi/shortcut/blob/main/Linux/Redhat/Redhat.md "Shortcut RedHat") 
+* [SusE ](https://github.com/tunadi/shortcut/blob/main/Linux/SuSE/SuSE.md "Shortcut SusE") 
+* [Ubuntu ](https://github.com/tunadi/shortcut/blob/main/Linux/Ubuntu/Ubuntu.md "Shortcut Ubuntu") 
+* [100 Keyboard Shorcuts to use Linux ](https://github.com/tunadi/shortcut/blob/main/Linux/100%20Keyboard%20Shortcuts%20to%20Use%20Linux.md "100 Keyboard Shorcuts to use Linux ") 
+     
+## Shortcut ChromeOs
+* [ChromeOs ](https://github.com/tunadi/shortcut/blob/main/Chrome%20OS/ChromeOs.md "Shortcut ChromeOs") 
