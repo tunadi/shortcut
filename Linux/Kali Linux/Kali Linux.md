@@ -17,7 +17,7 @@ Ctrl + D | Close terminal window
 Ctrl + C | Cancel currently running command
 Ctrl + L | Clear terminal
 Ctrl + + | Zoom in
-Ctrl + \– | Zoom out
+Ctrl + – | Zoom out
 Ctrl + A | Move cursor to beginning of line
 Ctrl + B | Move cursor backward one character
 Ctrl + E | Move cursor to end of line
