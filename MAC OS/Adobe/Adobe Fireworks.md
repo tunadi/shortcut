@@ -1,129 +1,217 @@
-## Keys For Selecting Tools In The Tools Panel
+## General Shortcuts-1
 <details>
            <summary>Shorcut</summary>
 
 Shortcut | Description
 ------------ | -------------
-A | Direct select tool | 
-M | Move tool | 
-R | Rotate tool | 
-T | Text tool | 
-V | Selection tool | 
-Y | Vertical text tool | 
-Z | Zoom tool | 
+Cmd + F12 | Secondary browser preview | 
+Cmd + N | New | 
+Cmd + O | Open | 
+Cmd + R | Import | 
+Cmd + S | Save | 
+Cmd + Shift + Control + F | File info | 
+Cmd + Shift + R | Export | 
+Cmd + Shift + S | Save as | 
+Cmd + Shift + X | Image preview | 
+Cmd + W | Close | 
+Opt + Cmd + O | Browse in bridge | 
+Opt + F12 | Browser preview | 
+Shift + Cmd + F12 | Pages in primary browser preview all | 
 
 </details>
 
-## Keys For Switching Workspaces
+## General Shortcuts-2
 <details>
            <summary>Shorcut</summary>
 
 Shortcut | Description
 ------------ | -------------
-Option + Shift + 1 | Switch to first workspace in workspace menu | 
-Option + Shift + 2 | Switch to second workspace in workspace menu | 
-Option + Shift + 3 | Switch to third workspace in workspace menu | 
-Option + Shift + 4 | Switch to fourth workspace in workspace menu | 
-Option + Shift + 5 | Switch to fifth workspace in workspace menu | 
-Option + Shift + 6 | Switch to sixth workspace in workspace menu | 
-Option + Shift + 7 | Switch to seventh workspace in workspace menu | 
-Option + Shift + 8 | Switch to eighth workspace in workspace menu | 
-Option + Shift + 9 | Switch to ninth workspace in workspace menu | 
+Cmd + F | Find & Replace | 
+Cmd + F8 | New symbol | 
+Cmd + P | Print | 
+Cmd + Shift + U | Hot spot | 
+Cmd + Z | Undo | 
+Cmd +Y | Redo | 
+Shift + Cmd +F8 | New button | 
+Shift + Opt + P | Polygon slice | 
+Shift + Opt + U | Rectangular slice | 
 
 </details>
 
-## Keys For Working In The Menu Viewer
+## General Shortcuts-3
 <details>
            <summary>Shorcut</summary>
 
 Shortcut | Description
 ------------ | -------------
-Cmd + , (comma) | Zoom out | 
-Cmd + . (period) | Zoom in | 
-Cmd + Click the replace button in the library | Replace without scale | 
-Cmd + Control + Click | Show menu layers | 
-Cmd + L | Set link for selected button | 
-Down Arrow | Nudge selection 1 pixel down | 
-Left Arrow | Nudge selection 1 pixel left | 
-Option + Double + Click at item in the library panel | Replace selected item | 
-Option + Drag | Duplicate selected item | 
-Option + Drag a video file from the project panel | Set video background for motion menu | 
-Option + Drag the bounding box handles | Scale from center | 
-Right Arrow | Nudge selection 1 pixel right | 
-Shift + Down Arrow | Nudge selection 10 pixels down | 
-Shift + Drag | Constrain movement (including rotation) to 45° | 
-Shift + Drag the bounding box handles | Constrain aspect ratio while scaling | 
-Shift + Left Arrow | Nudge selection 10 pixels left | 
-Shift + Right Arrow | Nudge selection 10 pixels right | 
-Shift + Up Arrow) | Nudge selection 10 pixels up | 
-Up Arrow | Nudge selection 1 pixel up | 
+Cmd + C | Copy | 
+Cmd + D | Duplicate | 
+Cmd + Shift + V | Paste inside | 
+Cmd + V | Paste | 
+Cmd + X | Cut | 
+Delete | Clear/Delete | 
+Opt + Cmd + C | Html code copy | 
+Shift + Cmd + D | Clone | 
+Shift + Opt + Cmd + V | Paste attributes | 
 
 </details>
 
-## Keys For Working In The Project Panel
+## General Shortcuts-4
+<details>
+           <summary>Shorcut</summary>
+
+Shortcut | Description
+------------ | -------------
+Cmd + 0 | Fit all | 
+Cmd + 1 | 100% | 
+Cmd + 2 | 200% | 
+Cmd + 3 | 300% | 
+Cmd + 4 | 400% | 
+Cmd + 5 | 50% | 
+Cmd + 6 | 1600% | 
+Cmd + 8 | 800% | 
+Cmd + ] | Tool tips | 
+Cmd + l | Hide selection | 
+Opt + Cmd + 0 | Fit selection | 
+Opt + Cmd + R | Rulers | 
+Shift + Cmd + l | Show all | 
+
+</details>
+
+## General Shortcuts-5
+<details>
+           <summary>Shorcut</summary>
+
+Shortcut | Description
+------------ | -------------
+Cmd + ; | Show guides | 
+Cmd + \ | Smart guides show | 
+Opt + Cmd + ; | Lock guides | 
+Opt + Cmd + G | Show grid | 
+Opt + F9 | Edges | 
+Shift + Cmd + ; | Snap to guides | 
+Shift + Cmd + \ | Snap to smart guides | 
+Shift + Opt + Cmd + ; | Slice guides | 
+Shift + Opt + Cmd + G | Snap to grid | 
+
+</details>
+
+## General Shortcuts-6
 <details>
            <summary>Shorcut</summary>
 
 Shortcut | Description
 ------------ | -------------
 Cmd + A | Select all | 
-Cmd + D | Duplicate selected asset | 
-Cmd + Option + Shift + R | Replace selected asset | 
-Cmd + Shift + A | Deselect all | 
-Cmd + Shift + N | New folder | 
-Double + Click | Open / Close folders | 
-Down Arrow | Select asset below current selection | 
-End | Scroll to bottom of panel | 
-Enter or Return | Open selected asset | 
-Home | Scroll to top of panel | 
-Left Arrow | Close selected folder | 
-Right Arrow | Open selected folder | 
-Up Arrow | Select asset above current selection | 
+Cmd + Left Arrow | Sub select | 
+Cmd + Right Arrow | Super select | 
+F8 | Symbol convert | 
+Opt + Cmd + F | Fit canvas | 
+Opt + Cmd + T | Trim canvas | 
+Shift + Cmd + A | Deselect | 
+Shift + Cmd + I | Inverse select | 
+Shift + Opt + Cmd + T | Tween instances | 
+Shift + Opt + F8 | Animate selection | 
 
 </details>
 
-## Keys For Working In The Slideshow Viewer
+## General Shortcuts-7
 <details>
            <summary>Shorcut</summary>
 
 Shortcut | Description
 ------------ | -------------
-Cmd + , (comma) | Zoom out | 
-Cmd + . (period) | Zoom in | 
-Down Arrow | Select slide below | 
-End | Select last slide | 
-Home | Select first slide | 
-Left Arrow | Select slide left | 
-Page Down | Select next slide | 
-Page Up | Select previous slide | 
-Right Arrow | Left Arrow | 
-Up Arrow | Select slide above | 
+Cmd + Shift + T | Num transform | 
+Cmd + T | Free transform | 
+Cmd + F | Bring front | 
+Cmd + E | Merge down | 
+Cmd + J | Join | 
+Cmd + Shift + B | Send backward | 
+Cmd + Shift + F | Bring forward | 
+Cmd + Shift + J | Split | 
+Opt + Cmd + 2 | Vertical center | 
+Opt + Cmd + 3 | Right | 
+Opt + Cmd + 4 | Top | 
+Opt + Cmd + 5 | Horizontal center | 
+Opt + Cmd + 6 | Bottom | 
+Opt + Cmd + 7 | Widths distribute | 
+Opt + Cmd + 9 | Heights distribute | 
+Shift + Cmd + 7 | 90° ccw rotate | 
+Shift + Cmd + 9 | 90° cw rotate | 
+Shift + Cmd + Down Arrow | Send back | 
+Shift + Cmd + Up Arrow | Bring front | 
+Shift + Opt + Cmd + Z | Selection flatten | 
 
 </details>
 
-## Keys For Working With Text In Menus and Subtitles
+## General Shortcuts-8
 <details>
            <summary>Shorcut</summary>
 
 Shortcut | Description
 ------------ | -------------
-Cmd + A | Select all text in text block | 
-Cmd + Down Arrow | Move cursor to next paragraph | 
-Cmd + Drag | Move subtitle text in the monitor tab when in text editing mode | 
-Cmd + End | Move cursor to end of text | 
-Cmd + Home | Move cursor to beginning of text | 
-Cmd + Shift + Left Arrow or Right Arrow | Increase selection by word | 
-Cmd + Shift + Up Arrow or Down Arrow | Increase selection by line | 
-Cmd + Up Arrow | Move cursor to previous paragraph | 
-Down Arrow | Move cursor one line down | 
-End | Move cursor to end of line | 
-Esc | Exit text edit mode | 
-Home | Move cursor to beginning of line | 
-Left Arrow | Move cursor one character left | 
-Right Arrow | Move cursor one character right | 
-Shift + Click | Increase selection of text | 
-Shift + End | Increase selection to end of text | 
-Shift + Home | Increase selection to beginning of text | 
-Shift + Left Arrow or Right Arrow | Increase selection by character | 
-Up Arrow | Move cursor one line up | 
+Cmd + B | Bold | 
+Cmd + G | Group | 
+Cmd + I | Italic | 
+Cmd + K | Snap to pixel | 
+Shift + Cmd + , | Smaller | 
+Shift + Cmd + . | Larger | 
+Shift + Cmd + G | Ungroup | 
+Shift + Cmd + P | Convert paths | 
+Shift + Cmd + Y | Attach path | 
+Shift + F7 | Check spelling | 
+Shift + Opt + Cmd + C | Horizontally centered | 
+Shift + Opt + Cmd + J | Justified | 
+Shift + Opt + Cmd + R | Right | 
+Shift + Opt + Cmd + X | Plugin repeat | 
+
+</details>
+
+## General Shortcuts-9
+<details>
+           <summary>Shorcut</summary>
+
+Shortcut | Description
+------------ | -------------
+B | Brush tool | 
+C | Crop | 
+Cmd + F11 | Styles | 
+Cmd + F2 | Tools | 
+Cmd + F3 | Properties | 
+Cmd + F9 | Swatches | 
+D | Default stroke & Fill colors | 
+E | Eraser tool | 
+F | Toggle screen mode | 
+F2 | Layers | 
+F4 | Panels hide | 
+F5 | Pages | 
+F6 | Optimize | 
+F7 | Common library | 
+G | Gradient tool | 
+H | Hand tool | 
+I | Eyedropper tool | 
+J | Rectangle hot spot | 
+K | Slice | 
+L | Lasso | 
+M | Marquee | 
+N | Line tool | 
+O | Freeform reshape | 
+Opt + Cmd + N | Duplicate window | 
+Opt + F11 | Document library | 
+P | Pen tool | 
+Q | Scale | 
+R | Blur | 
+S | Rubber stamp | 
+Shift + F10 | History | 
+Shift + F2 | States | 
+Shift + F3 | Behaviors | 
+Shift + F9 | Color mixer | 
+Shift + Opt + F10 | Url | 
+Shift + Opt + F12 | Info | 
+T | Text toolt | 
+U | Rectangle | 
+W | Magic wand tool | 
+X | Swap stroke & Fill colors | 
+Y | Knife tool | 
+Z | Zoom tool | 
 </details>
